@@ -1,0 +1,16 @@
+C:\Users\farre\source\repos\CrudBasic8\bin\Debug\CrudBasic8.exe.config
+C:\Users\farre\source\repos\CrudBasic8\bin\Debug\CrudBasic8.exe
+C:\Users\farre\source\repos\CrudBasic8\bin\Debug\CrudBasic8.pdb
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.csproj.AssemblyReference.cache
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.Properties.Resources.resources
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.csproj.GenerateResource.cache
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.csproj.CoreCompileInputs.cache
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.exe
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.pdb
+C:\Users\farre\source\repos\CrudBasic8\bin\Debug\EntityFramework.dll
+C:\Users\farre\source\repos\CrudBasic8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\farre\source\repos\CrudBasic8\bin\Debug\EntityFramework.xml
+C:\Users\farre\source\repos\CrudBasic8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.csproj.Up2Date
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.Form1.resources
+C:\Users\farre\source\repos\CrudBasic8\obj\Debug\CrudBasic8.FrmLogin.resources
